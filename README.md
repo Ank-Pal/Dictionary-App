@@ -35,7 +35,26 @@ pip install requests
 ```
 ## 🚀 Installation & Usage
 **Clone repository:**
-```git clone https://github.com/Ank-Pal/Dictionary-App.git
+```bash
+git clone https://github.com/Ank-Pal/Dictionary-App.git
 cd Dictionary-App
 ```
+** Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+** Launch Application **
+```bash
+pip install -r requirements.txt
+```
+-** Interface guide:**
+
+Type word in search box
+
+Results auto-load in tabs
+
+Use dropdown for search history
+
+Click phonetic text for audio
+
 
