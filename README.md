@@ -34,20 +34,20 @@ A modern desktop dictionary application built with Python and Tkinter, powered b
 pip install requests
 ```
 ## 🚀 Installation & Usage
-**Clone repository:**
+Clone repository:
 ```bash
 git clone https://github.com/Ank-Pal/Dictionary-App.git
 cd Dictionary-App
 ```
-** Install dependencies:**
+Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-** Launch Application **
+Launch Application 
 ```bash
 pip install -r requirements.txt
 ```
--** Interface guide:**
+Interface guide:
 
 Type word in search box
 
@@ -56,5 +56,43 @@ Results auto-load in tabs
 Use dropdown for search history
 
 Click phonetic text for audio
+
+## 📂 Project Structure
+```bash
+Dictionary-App/
+├── dictionary_app.py      # Main application logic
+├── requirements.txt       # Dependency list
+├── LICENSE                # MIT License
+└── README.md              # This documentation
+```
+## 🤝 Contribution
+1.Fork the repository
+
+2.Create feature branch:
+
+```bash
+git checkout -b feature/amazing-feature
+```
+3.Commit Changes
+```bash
+git commit -m 'Add awesome feature'
+```
+4.Push To Branch
+```bash
+git push origin feature/amazing-feature
+```
+Open Pull Request
+
+## 📜 License
+Distributed under MIT License. See LICENSE for details.
+
+## 📚 Credits
+Dictionary Data: Free Dictionary API
+
+UI Design Inspiration: Material Design Guidelines
+
+Icons: Material Design Icons
+
+Color Scheme: Coolors.co
 
 
