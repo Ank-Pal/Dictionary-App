@@ -1,72 +1,34 @@
-# DictionaryApp
+# 📖 DictionaryApp
 
-A desktop dictionary application built with Python and Tkinter, powered by the Free Dictionary API.  
-Search for English words and get definitions, example sentences, synonyms, antonyms, and pronunciation—all in a friendly GUI.https://github.com/Ank-Pal/Dictionary-App/blob/main/README.md
+A modern desktop dictionary application built with Python and Tkinter, powered by the Free Dictionary API.
 
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ank-Pal/Dictionary-App)
+
+![App Screenshot](https://via.placeholder.com/800x500.png?text=LexiVision+Screenshot) <!-- Add actual screenshot -->
 
 ## 🌟 Features
 
 - **Word Lookup**  
-  Retrieve definitions, parts of speech, and pronunciation.
-
-- **Example Sentences**  
-  See real-world usage examples for each definition.
-
-- **Synonyms & Antonyms**  
-  Browse related words to expand your vocabulary.
-
+  Retrieve definitions, parts of speech, and phonetic pronunciation
+- **Contextual Examples**  
+  Real-world usage examples for each definition
+- **Word Relationships**  
+  Synonyms & antonyms display
 - **Search History**  
-  Quickly re-run up to 10 recent word lookups via a dropdown.
-
+  Last 10 queries accessible via dropdown
 - **Tabbed Interface**  
-  Separate tabs for Definitions, Examples, Synonyms & Antonyms.
+  Organized sections for Definitions/Examples/Synonyms
+- **Responsive Design**  
+  Background threading for smooth UI experience
+- **Modern UI**  
+  Dark/light themes with Material Design influences
 
-- **Responsive UI**  
-  Runs lookups in a background thread to keep the interface smooth.
+## 🛠️ Requirements
 
----
+- Python 3.7+
+- `requests` library
 
-## 🔧 Requirements
-
-- Python 3.7+  
-- requests  
-- Pillow  
-
-Install dependencies with:
-
-'''bash
-**pip install requests pillow
-'''
-## 🚀 Installation & Usage
-
-Clone or download this repository.
-
-Ensure dependencies are installed:
-
-'''bash
-**pip install -r requirements.txt'''
-
-
-**Run the app:
-
-'''bash
-**Copy
-**Edit
-**python dictionary_app.py
-**Type a word in the entry box and press Enter or click Search.
-
-**Browse results in the Definitions, Examples, and Synonyms & Antonyms tabs.
-'''
-
-## 📂 File Structure
-
-**
-.
-├── dictionary_app.py      # Main application script
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-## 🤝 Contribution
-**Feel free to fork, file issues, or submit pull requests for new features, bug fixes, or styling improvements.
-
-
+```bash
+pip install requests
