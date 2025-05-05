@@ -46,3 +46,26 @@ Ensure dependencies are installed:
 '''bash
 pip install -r requirements.txt
 
+
+Run the app:
+
+bash
+Copy
+Edit
+python dictionary_app.py
+Type a word in the entry box and press Enter or click Search.
+
+Browse results in the Definitions, Examples, and Synonyms & Antonyms tabs.
+
+📂 File Structure
+bash
+Copy
+Edit
+.
+├── dictionary_app.py      # Main application script
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+🤝 Contribution
+Feel free to fork, file issues, or submit pull requests for new features, bug fixes, or styling improvements.
+
+
