@@ -36,7 +36,7 @@ Search for English words and get definitions, example sentences, synonyms, anton
 Install dependencies with:
 
 '''bash
-pip install requests pillow
+**pip install requests pillow
 '''
 ## 🚀 Installation & Usage
 
@@ -45,28 +45,28 @@ Clone or download this repository.
 Ensure dependencies are installed:
 
 '''bash
-pip install -r requirements.txt
+**pip install -r requirements.txt'''
 
 
-Run the app:
+**Run the app:
 
-bash
-Copy
-Edit
-python dictionary_app.py
-Type a word in the entry box and press Enter or click Search.
+'''bash
+**Copy
+**Edit
+**python dictionary_app.py
+**Type a word in the entry box and press Enter or click Search.
 
-Browse results in the Definitions, Examples, and Synonyms & Antonyms tabs.
+**Browse results in the Definitions, Examples, and Synonyms & Antonyms tabs.
+'''
 
-📂 File Structure
-bash
-Copy
-Edit
+## 📂 File Structure
+
+**
 .
 ├── dictionary_app.py      # Main application script
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
-🤝 Contribution
-Feel free to fork, file issues, or submit pull requests for new features, bug fixes, or styling improvements.
+## 🤝 Contribution
+**Feel free to fork, file issues, or submit pull requests for new features, bug fixes, or styling improvements.
 
 
