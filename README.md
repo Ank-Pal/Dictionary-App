@@ -35,8 +35,9 @@ Search for English words and get definitions, example sentences, synonyms, anton
 
 Install dependencies with:
 
-```bash
+'''bash
 pip install requests pillow
+'''
 ## 🚀 Installation & Usage
 
 Clone or download this repository.
