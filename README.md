@@ -7,6 +7,7 @@ A modern desktop dictionary application built with Python and Tkinter, powered b
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ank-Pal/Dictionary-App)
 
 ![App Screenshot](https://via.placeholder.com/800x500.png?text=LexiVision+Screenshot) <!-- Add actual screenshot -->
+![Screenshot 2025-05-05 165420](https://github.com/user-attachments/assets/9f1739c1-21c9-4d32-89c6-59b7f0d39121)
 
 ## 🌟 Features
 
