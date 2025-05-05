@@ -32,3 +32,7 @@ A modern desktop dictionary application built with Python and Tkinter, powered b
 
 ```bash
 pip install requests
+'''
+## 🚀 Installation & Usage
+Clone repository:
+
